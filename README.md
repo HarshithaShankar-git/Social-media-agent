@@ -12,8 +12,7 @@ Perfect for creators, marketers, and brands looking to quickly generate optimize
 ---
 
 ## 🌐 Live Demo
-👉 **Deployed App:** *Add your Streamlit Cloud URL here after deploying*  
-(Example: `https://your-app-name.streamlit.app`)
+👉 **Deployed App:** https://harshithashankar-git-social-media-agent-app-wrqla6.streamlit.app/ 
 
 ---
 
