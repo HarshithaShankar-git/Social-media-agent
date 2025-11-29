@@ -1,41 +1,55 @@
 # 🌟 Social Media Agent — Groq + Streamlit
 
-An intelligent **Social Media Content Generator** that produces:
-- Engaging captions  
-- Relevant hashtags  
-- A complete 7-day content plan  
+A simple and fast **AI-powered Social Media Content Generator** built using **Streamlit** and **Groq’s free Llama models**.  
+It generates captions, hashtags, and a 7-day content plan based on the user’s topic, platform, and tone.
 
-All powered by **Groq's FREE Llama models** and built using **Streamlit**.
-
-Perfect for creators, marketers, and brands looking to quickly generate optimized content.
+This project is created as part of the **AI Agent Development Challenge**.
 
 ---
 
-## 🌐 Live Demo
-👉 **Deployed App:** https://harshithashankar-git-social-media-agent-app-wrqla6.streamlit.app/ 
+## 🌐 Live Demo  
+👉 **Try the Deployed App:**  
+https://harshithashankar-git-social-media-agent-app-wrqla6.streamlit.app/
+
+---
+
+## 🖼️ Screenshots (App Preview)
+
+### 🔹 Home Page
+![Home](screenshots/Home.png)
+
+### 🔹 Output – Captions & Hashtags
+![Output 1](screenshots/Output-1.png)
+
+### 🔹 Output – 7-Day Content Plan
+![Output 2](screenshots/Output-2.png)
+
+### 🔹 Output – Recent Generations Section
+![Output 3](screenshots/Output-3.png)
 
 ---
 
 ## 🚀 Features
-- Generate **N number of captions** (via slider)
-- Auto-generate **6 relevant hashtags**
-- Complete **7-day content plan**
-- Copy-to-clipboard buttons for quick usage
-- Download captions as **CSV**
-- Download raw model output as **TXT**
-- Recent generations saved in user session
+- Generate **1–10 captions** using AI  
+- Automatically generate **6 hashtags**  
+- Get a **7-day content plan**  
+- Supports multiple platforms and tones  
+- Copy buttons for each caption + hashtag  
+- Download outputs as **CSV** or **TXT**  
+- Clean, modern UI  
+- Stores recent results during session  
 
 ---
 
 ## 🧠 Tech Stack
-- **Python 3.11.9**
-- **Streamlit**
-- **Groq Python SDK** (Free Llama models)
-- **pandas**
+- **Python 3.11.9**  
+- **Streamlit**  
+- **Groq Llama Models**  
+- **pandas**  
 
 ---
 
-## 🛠️ Local Setup & Run (Windows PowerShell)
+## 🛠️ Local Setup (Windows)
 
 ### 1️⃣ Clone the repository
 ```powershell
