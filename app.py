@@ -16,7 +16,7 @@ DEFAULT_MAX_TOKENS = 800
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 st.set_page_config(page_title="Social Media Agent (Groq)", layout="centered")
-st.title("🧠 Social Media Agent — Groq (FREE)")
+st.title("🧠 Social Media Agent ")
 
 st.markdown(
     "Enter a topic, pick platform/tone, then click **Generate**. "
@@ -251,4 +251,4 @@ if st.session_state.history:
 
 # ---------- Footer ----------
 st.markdown("---")
-st.caption("Built with Groq (free models). Keep your GROQ_API_KEY safe. If the model errors, try the lighter model.")
+st.caption("Built with Groq (free models).")
